@@ -1,0 +1,8 @@
+{
+    "name": "china-app-store-reviews",
+    "private": true,
+    "type": "commonjs",
+    "dependencies": {
+        "app-store-scraper": "^0.18.0"
+    }
+}

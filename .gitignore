@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Data files - keep only the main review dataset
+gemini_results_checkpoint_*.json
+gemini_results_final_*.json
+
+# Intermediate outputs - keep only final visualizations
+*_revised_*.csv
+*_revised_*.png
+gemini_summary_by_group_*.csv
+executive_summary_20260130_*.csv
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Scrapy
+.scrapy/
+crawls/
+
+# Weibo search results (large files)
+weibo-search/结果文件/
