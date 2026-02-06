@@ -72,7 +72,7 @@ Out of **4,991 user reviews** analyzed:
 - Real user opinions, not marketing fluff
 
 ### Step 2: AI Analysis
-Used **Google's Gemini 2.0 Flash** to read each review and identify:
+Used **Google's Gemini 3.0 Flash** to read each review and identify:
 - **Sentiment**: Is the user happy, neutral, or complaining?
 - **Moats**: Which competitive advantages do they mention?
 - **Pain Points**: What problems do they have?
