@@ -291,14 +291,6 @@ By aggregating 5,000 discrete user perspectives into structured data through adv
 
 ---
 
-## 📚 Further Reading
-
-- [Warren Buffett on Economic Moats](https://www.investopedia.com/terms/e/economicmoat.asp)
-- [Network Effects in Tech Companies](https://a16z.com/network-effects/)
-- [China Music Streaming Market Overview](https://www.statista.com/topics/5861/music-streaming-in-china/)
-
----
-
 **Data Source:** Chinese App Store reviews (January 2026)  
 **Analysis Method:** AI-powered sentiment & moat detection using Google Gemini 3.0 Flash  
 **Review Count:** 4,991 user reviews across 3 major platforms
