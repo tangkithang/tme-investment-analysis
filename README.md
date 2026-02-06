@@ -74,10 +74,7 @@ Out of **4,991 user reviews** analyzed:
 
 *TME dominates in fan interaction, content depth, and ecosystem lock-in*
 
-### MAP Investment Framework Evidence
-<img src="map_framework_evidence_20260205_041930.png" alt="MAP Framework Evidence" width="800">
 
-*Monetization, Affluence, and Partnership strengths validated through user reviews*
 
 ### Fan Economy → Higher Monetization Potential
 <img src="monetisation_funnel_20260205_042016.png" alt="Monetization Funnel" width="800">
