@@ -1,6 +1,9 @@
 # Tencent Music (TME) Investment Analysis
 ### Using AI to Analyze 5,000 User Reviews from Chinese Music Apps
 
+> **CFA Institute Research Challenge 2026 - Equity Research Report**  
+> *Bottom-up validation of TME's competitive moats through AI-powered sentiment analysis*
+
 ---
 
 ## 🎯 What Problem Does This Solve?
@@ -64,7 +67,27 @@ Out of **4,991 user reviews** analyzed:
 
 ---
 
-## 🔬 The Method: AI-Powered Analysis
+## � Key Visualizations
+
+### Competitive Moat Comparison
+![Moat Comparison](moat_comparison_20260130_024836.png)
+*TME dominates in fan interaction, content depth, and ecosystem lock-in*
+
+### MAP Investment Framework Evidence
+![MAP Framework](map_framework_evidence_20260205_041930.png)
+*Monetization, Affluence, and Partnership strengths validated through user reviews*
+
+### Multi-Dimensional Competitive Positioning
+![Radar Chart](radar_map_thesis_20260205_042037.png)
+*TME's balanced strength across all key dimensions*
+
+### Value Perception Matrix
+![Value Perception](value_perception_matrix_20260205_042023.png)
+*TME achieves high moat strength with manageable complaint levels*
+
+---
+
+## �🔬 The Method: AI-Powered Analysis
 
 ### Step 1: Collect Data
 - Scraped **4,991 reviews** from Chinese app stores
