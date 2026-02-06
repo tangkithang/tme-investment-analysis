@@ -214,7 +214,7 @@ Here are actual reviews from our dataset that showcase different competitive moa
 
 ### Tools Used
 - **Python** + Jupyter Notebook for data analysis
-- **Google Gemini 2.0 Flash** for AI-powered review analysis
+- **Google Gemini 3.0 Flash** for AI-powered review analysis
 - **Scrapy** for web scraping (Weibo posts)
 - **Node.js** for App Store review collection
 - **Pandas** for data processing
@@ -287,9 +287,7 @@ All visualizations and data exports are automatically timestamped and saved to t
 
 **Wall Street analyzes numbers. This project analyzes voices.**
 
-5,000 users told us why they choose TME over competitors. The AI found the patterns. The data backs the investment thesis.
-
-**The result?** Evidence-based conviction that TME's competitive advantages are real, measurable, and defensible.
+By aggregating 5,000 discrete user perspectives into structured data through advanced NLP, we provide empirical validation of TME's competitive moat. The resulting analysis offers tangible evidence of user stickiness and ecosystem lock-in that traditional financial statements cannot reveal, validating the investment thesis with measurable qualitative data.
 
 ---
 
@@ -302,5 +300,5 @@ All visualizations and data exports are automatically timestamped and saved to t
 ---
 
 **Data Source:** Chinese App Store reviews (January 2026)  
-**Analysis Method:** AI-powered sentiment & moat detection using Google Gemini 2.0 Flash  
+**Analysis Method:** AI-powered sentiment & moat detection using Google Gemini 3.0 Flash  
 **Review Count:** 4,991 user reviews across 3 major platforms

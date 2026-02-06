@@ -84,7 +84,7 @@ Results saved in `结果文件/` directory with filenames based on keywords.
 
 After collection, reviews are processed through:
 1. Data cleaning and normalization
-2. Gemini 2.0 Flash API for sentiment analysis and moat detection
+2. Gemini 3.0 Flash API for sentiment analysis and moat detection
 3. Aggregation and statistical analysis
 4. Visualization generation
 
