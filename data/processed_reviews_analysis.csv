@@ -1,0 +1,501 @@
+﻿i,m_fan_interaction,m_content_depth,m_ecosystem,m_community,m_algo_accuracy,g_price,g_audio,g_ux,g_ads,sent,index,app_name,app_group
+0,0,0,0,0,0,0,0,0,0,2,0,QQ Music,tencent music
+1,0,0,0,0,0,1,0,0,1,0,1,QQ Music,tencent music
+2,0,0,0,0,0,1,0,0,1,0,2,QQ Music,tencent music
+3,0,0,0,0,0,1,0,1,1,0,3,Kugou Music,tencent music
+4,0,0,0,0,0,1,0,1,0,0,4,Kugou Music,tencent music
+5,0,0,0,0,0,0,0,1,1,0,5,QQ Music,tencent music
+6,0,0,0,0,0,0,0,1,0,0,6,NetEase Cloud Music,netease
+7,0,0,0,0,0,0,0,1,0,0,7,Kugou Music,tencent music
+8,0,0,0,0,0,1,0,0,1,0,8,QQ Music,tencent music
+9,0,0,0,0,0,0,0,1,0,0,9,NetEase Cloud Music,netease
+10,0,0,0,0,0,0,0,1,0,0,10,Kugou Music,tencent music
+11,0,0,0,0,0,1,0,0,0,0,11,Kugou Music,tencent music
+12,0,1,0,0,0,0,0,0,0,2,12,QQ Music,tencent music
+13,0,0,0,0,0,1,0,1,1,0,13,Kugou Music,tencent music
+14,0,0,0,0,0,0,0,0,0,0,14,QQ Music,tencent music
+15,0,0,0,0,0,0,1,1,0,0,15,QQ Music,tencent music
+16,0,0,0,0,0,0,1,0,0,2,16,QQ Music,tencent music
+17,0,0,0,0,0,0,0,1,1,0,17,QQ Music,tencent music
+18,0,0,0,0,0,0,0,0,0,2,18,QQ Music,tencent music
+19,0,0,0,0,0,0,1,1,0,2,19,QQ Music,tencent music
+20,0,0,0,0,0,0,1,0,0,2,20,QQ Music,tencent music
+21,0,0,0,0,0,0,0,0,0,0,21,Qishui Music,bytedance
+22,0,0,0,0,0,1,0,0,0,0,22,Kugou Music,tencent music
+23,0,0,0,0,0,0,0,1,0,1,23,Kugou Music,tencent music
+24,0,0,0,0,0,0,0,0,0,1,24,QQ Music,tencent music
+25,0,0,0,0,0,1,0,0,0,0,25,Qishui Music,bytedance
+26,0,0,0,0,0,0,0,0,0,2,26,QQ Music,tencent music
+27,0,0,0,0,0,1,0,0,0,2,27,Qishui Music,bytedance
+28,0,0,0,0,0,0,0,0,0,2,28,QQ Music,tencent music
+29,0,0,0,0,0,0,0,0,1,0,29,Qishui Music,bytedance
+30,0,0,0,0,0,0,0,1,0,1,30,Qishui Music,bytedance
+31,0,0,0,0,0,0,0,0,0,2,31,QQ Music,tencent music
+32,0,0,0,0,0,0,0,0,0,1,32,QQ Music,tencent music
+33,0,0,0,0,0,0,0,0,0,0,33,Kugou Music,tencent music
+34,0,0,0,0,0,0,0,1,0,0,34,QQ Music,tencent music
+35,0,0,0,0,0,0,0,1,1,0,35,QQ Music,tencent music
+36,0,0,0,0,0,0,0,0,0,2,36,QQ Music,tencent music
+37,0,0,0,0,0,0,0,0,0,2,37,QQ Music,tencent music
+38,0,0,0,0,0,0,0,0,0,0,38,NetEase Cloud Music,netease
+39,0,0,0,0,0,1,0,0,1,0,39,QQ Music,tencent music
+40,0,0,0,0,0,1,0,1,1,0,40,Qishui Music,bytedance
+41,0,0,0,0,0,0,0,0,0,1,41,Kugou Music,tencent music
+42,1,0,0,0,0,1,0,0,0,2,42,QQ Music,tencent music
+43,0,0,0,0,0,0,0,1,0,0,43,Qishui Music,bytedance
+44,0,0,0,0,0,0,0,0,0,2,44,QQ Music,tencent music
+45,0,0,0,0,0,1,0,0,1,1,45,Qishui Music,bytedance
+46,0,0,0,0,0,0,0,0,0,0,46,NetEase Cloud Music,netease
+47,0,0,0,0,0,0,0,0,0,2,47,QQ Music,tencent music
+48,0,0,0,1,0,0,0,0,0,2,48,QQ Music,tencent music
+49,0,0,0,0,0,0,1,0,0,2,49,QQ Music,tencent music
+50,0,1,0,0,0,0,0,0,0,2,50,QQ Music,tencent music
+51,0,0,0,0,0,0,0,0,0,0,51,NetEase Cloud Music,netease
+52,0,0,0,0,0,0,0,0,0,2,52,QQ Music,tencent music
+53,0,0,0,0,0,0,0,1,0,2,53,QQ Music,tencent music
+54,0,0,0,0,0,0,0,1,0,0,54,NetEase Cloud Music,netease
+55,0,0,0,0,0,0,0,0,0,2,55,QQ Music,tencent music
+56,0,0,0,0,0,0,0,0,0,2,56,QQ Music,tencent music
+57,0,0,0,0,0,1,0,1,0,2,57,QQ Music,tencent music
+58,0,0,0,0,0,0,0,0,0,2,58,QQ Music,tencent music
+59,0,0,0,1,0,0,0,0,0,2,59,QQ Music,tencent music
+60,0,0,0,0,1,0,0,0,0,2,60,QQ Music,tencent music
+61,1,0,0,0,0,0,0,0,0,2,61,QQ Music,tencent music
+62,0,1,0,0,0,0,0,0,0,2,62,QQ Music,tencent music
+63,0,0,0,0,0,0,0,1,1,0,63,NetEase Cloud Music,netease
+64,0,1,0,0,0,0,0,1,0,2,64,QQ Music,tencent music
+65,0,0,0,0,0,0,0,1,0,0,65,QQ Music,tencent music
+66,1,0,0,0,0,0,0,0,0,2,66,QQ Music,tencent music
+67,0,0,0,0,0,1,0,0,0,2,67,QQ Music,tencent music
+68,0,0,0,0,0,0,0,0,0,2,68,QQ Music,tencent music
+69,0,0,0,0,0,0,0,0,0,2,69,QQ Music,tencent music
+70,0,0,0,0,0,0,0,0,0,2,70,QQ Music,tencent music
+71,0,0,0,0,0,0,0,1,0,0,71,NetEase Cloud Music,netease
+72,0,0,0,0,0,0,0,0,0,2,72,QQ Music,tencent music
+73,0,1,0,0,0,1,0,1,1,2,73,QQ Music,tencent music
+74,0,0,0,0,0,0,0,0,0,2,74,QQ Music,tencent music
+75,0,0,0,0,0,0,1,0,0,2,75,QQ Music,tencent music
+76,0,0,0,0,0,0,0,0,0,2,76,QQ Music,tencent music
+77,0,0,0,0,0,0,0,0,0,2,77,QQ Music,tencent music
+78,0,0,0,0,0,0,0,0,0,2,78,QQ Music,tencent music
+79,0,1,0,1,0,0,0,0,0,2,79,QQ Music,tencent music
+80,0,0,0,0,0,1,0,1,1,0,80,Kugou Music,tencent music
+81,0,0,0,0,0,0,0,0,0,2,81,QQ Music,tencent music
+82,0,0,0,0,0,0,0,0,0,2,82,QQ Music,tencent music
+83,0,0,0,0,0,0,0,0,0,2,83,QQ Music,tencent music
+84,0,0,0,0,0,0,0,1,0,1,84,NetEase Cloud Music,netease
+85,0,0,0,0,0,0,0,0,0,2,85,QQ Music,tencent music
+86,0,0,0,0,0,0,0,0,0,2,86,QQ Music,tencent music
+87,0,0,0,0,0,0,0,1,0,2,87,QQ Music,tencent music
+88,0,1,0,0,0,0,0,0,0,1,88,QQ Music,tencent music
+89,0,1,0,1,1,0,0,1,0,2,89,QQ Music,tencent music
+90,1,0,0,0,0,0,0,0,0,2,90,QQ Music,tencent music
+91,0,0,0,1,0,0,0,0,0,2,91,QQ Music,tencent music
+92,0,0,0,0,0,0,0,1,0,0,92,QQ Music,tencent music
+93,0,0,0,0,0,0,0,0,0,2,93,QQ Music,tencent music
+94,0,1,0,0,0,0,0,0,0,2,94,QQ Music,tencent music
+95,0,0,0,0,0,0,0,1,1,0,95,QQ Music,tencent music
+96,0,1,0,0,0,1,0,0,0,2,96,Qishui Music,bytedance
+97,0,0,0,0,0,1,0,1,0,0,97,QQ Music,tencent music
+98,0,0,0,0,0,0,0,1,0,0,98,QQ Music,tencent music
+99,0,0,0,0,0,0,0,1,1,0,99,Qishui Music,bytedance
+100,0,0,0,0,0,0,0,0,0,2,100,QQ Music,tencent music
+101,0,0,0,0,0,1,0,1,0,0,101,QQ Music,tencent music
+102,0,0,0,0,0,0,0,1,0,0,102,QQ Music,tencent music
+103,0,0,0,0,1,0,0,1,0,2,103,Qishui Music,bytedance
+104,0,0,0,0,0,1,0,0,0,0,104,QQ Music,tencent music
+105,0,0,0,0,0,1,0,1,1,0,105,Kugou Music,tencent music
+106,0,0,0,0,0,0,0,1,0,1,106,Qishui Music,bytedance
+107,0,0,0,0,0,1,0,0,1,0,107,NetEase Cloud Music,netease
+108,0,0,0,0,0,0,0,0,0,2,108,QQ Music,tencent music
+109,0,0,0,0,0,0,0,0,0,0,109,Qishui Music,bytedance
+110,0,0,0,0,0,1,0,0,0,0,110,Kugou Music,tencent music
+111,0,1,0,0,0,0,0,0,0,2,111,QQ Music,tencent music
+112,0,0,0,0,0,1,0,0,1,0,112,QQ Music,tencent music
+113,0,1,0,0,0,0,1,0,0,2,113,QQ Music,tencent music
+114,0,0,0,0,0,0,0,0,0,2,114,Qishui Music,bytedance
+115,0,0,0,0,0,1,0,0,1,0,115,Qishui Music,bytedance
+116,0,0,0,0,0,0,0,1,0,1,116,QQ Music,tencent music
+117,0,0,0,0,0,1,0,0,0,0,117,Kugou Music,tencent music
+118,0,0,0,0,0,0,0,0,0,2,118,QQ Music,tencent music
+119,0,0,0,0,0,0,0,0,0,1,119,Qishui Music,bytedance
+120,0,0,0,0,0,0,0,0,0,0,120,NetEase Cloud Music,netease
+121,0,0,0,0,0,0,0,0,0,2,121,QQ Music,tencent music
+122,0,0,0,0,0,1,0,0,0,0,122,QQ Music,tencent music
+123,0,0,0,0,0,0,0,1,0,0,123,Kugou Music,tencent music
+124,0,0,0,0,0,0,0,0,0,2,124,QQ Music,tencent music
+125,0,0,0,0,0,0,0,0,0,0,125,QQ Music,tencent music
+126,0,0,0,0,0,0,0,0,0,2,126,QQ Music,tencent music
+127,0,0,0,0,0,0,0,0,0,2,127,QQ Music,tencent music
+128,0,0,0,0,0,0,1,0,0,0,128,Kugou Music,tencent music
+129,0,0,0,0,0,1,0,1,0,0,129,Qishui Music,bytedance
+130,0,0,0,0,0,0,0,0,1,0,130,Qishui Music,bytedance
+131,0,0,0,0,0,0,1,0,0,2,131,QQ Music,tencent music
+132,0,0,0,0,0,1,0,1,0,0,132,QQ Music,tencent music
+133,0,1,0,0,0,0,0,0,0,1,133,QQ Music,tencent music
+134,0,0,0,0,0,0,0,1,1,0,134,Qishui Music,bytedance
+135,0,0,0,0,0,0,1,0,0,2,135,QQ Music,tencent music
+136,0,0,0,0,0,1,0,1,0,0,136,NetEase Cloud Music,netease
+137,0,0,0,1,1,0,1,0,0,2,137,NetEase Cloud Music,netease
+138,0,0,0,0,0,1,0,0,1,0,138,QQ Music,tencent music
+139,0,0,1,0,0,0,0,0,0,2,139,QQ Music,tencent music
+140,0,0,0,0,0,1,0,0,0,0,140,QQ Music,tencent music
+141,0,0,0,0,0,0,0,1,1,0,141,Qishui Music,bytedance
+142,0,0,0,1,0,0,0,0,0,2,142,QQ Music,tencent music
+143,0,1,0,0,0,0,0,0,0,2,143,QQ Music,tencent music
+144,0,0,0,0,0,0,0,1,0,0,144,QQ Music,tencent music
+145,0,1,0,0,0,0,0,1,0,2,145,NetEase Cloud Music,netease
+146,0,0,0,0,0,0,0,0,0,2,146,QQ Music,tencent music
+147,0,0,0,0,1,0,0,0,0,2,147,QQ Music,tencent music
+148,0,0,0,0,0,0,0,0,0,2,148,QQ Music,tencent music
+149,0,0,0,0,0,0,0,0,0,2,149,QQ Music,tencent music
+150,0,1,0,0,0,0,1,1,0,2,150,QQ Music,tencent music
+151,0,0,0,0,0,0,0,0,0,2,151,QQ Music,tencent music
+152,0,0,0,0,0,0,0,1,0,0,152,QQ Music,tencent music
+153,0,0,0,0,0,0,0,0,0,2,153,QQ Music,tencent music
+154,0,0,0,0,0,1,0,0,0,0,154,QQ Music,tencent music
+155,0,0,0,0,0,1,1,1,1,0,155,QQ Music,tencent music
+156,0,1,0,0,0,0,0,0,0,2,156,QQ Music,tencent music
+157,0,0,0,0,0,0,0,1,0,2,157,QQ Music,tencent music
+158,0,0,0,0,0,0,0,0,0,2,158,QQ Music,tencent music
+159,0,0,0,0,0,0,0,0,0,2,159,QQ Music,tencent music
+160,0,0,0,0,0,0,0,0,0,2,160,QQ Music,tencent music
+161,0,1,0,0,0,0,0,0,0,2,161,QQ Music,tencent music
+162,0,0,0,0,0,0,0,0,0,2,162,QQ Music,tencent music
+163,0,0,0,0,0,1,0,0,1,0,163,QQ Music,tencent music
+164,0,0,0,0,0,0,0,1,0,0,164,QQ Music,tencent music
+165,0,0,0,0,0,0,0,1,0,1,165,Kugou Music,tencent music
+166,0,1,0,1,0,0,0,1,0,2,166,QQ Music,tencent music
+167,0,0,0,0,0,0,0,1,1,0,167,QQ Music,tencent music
+168,0,0,0,0,0,0,0,0,0,2,168,QQ Music,tencent music
+169,0,1,0,0,0,0,1,0,0,2,169,QQ Music,tencent music
+170,0,0,0,0,0,0,0,0,0,2,170,QQ Music,tencent music
+171,0,0,0,0,0,0,0,0,0,2,171,QQ Music,tencent music
+172,0,0,0,0,0,0,0,0,1,0,172,QQ Music,tencent music
+173,0,0,0,0,0,0,0,0,0,2,173,QQ Music,tencent music
+174,0,0,0,0,0,0,0,0,0,2,174,QQ Music,tencent music
+175,0,0,0,0,0,0,0,0,0,0,175,QQ Music,tencent music
+176,0,0,0,0,0,0,0,0,0,0,176,QQ Music,tencent music
+177,0,0,0,0,0,0,0,0,0,2,177,QQ Music,tencent music
+178,0,0,0,0,0,0,0,0,0,2,178,Qishui Music,bytedance
+179,0,0,0,0,0,0,0,1,0,0,179,QQ Music,tencent music
+180,0,0,0,0,0,0,0,1,0,2,180,QQ Music,tencent music
+181,0,0,0,0,0,0,0,0,0,0,181,QQ Music,tencent music
+182,0,0,0,0,0,0,0,0,0,2,182,QQ Music,tencent music
+183,0,0,0,0,0,0,0,0,0,2,183,QQ Music,tencent music
+184,0,0,0,0,0,1,0,1,1,0,184,QQ Music,tencent music
+185,0,0,0,0,0,0,0,0,0,2,185,QQ Music,tencent music
+186,0,0,0,0,0,0,1,0,0,2,186,QQ Music,tencent music
+187,0,0,0,0,0,0,0,0,0,2,187,QQ Music,tencent music
+188,0,0,0,1,0,0,0,1,0,2,188,NetEase Cloud Music,netease
+189,0,0,0,0,0,0,0,1,0,2,189,NetEase Cloud Music,netease
+190,0,0,0,0,0,0,0,0,0,1,190,QQ Music,tencent music
+191,0,0,0,0,0,0,0,0,0,2,191,QQ Music,tencent music
+192,0,0,0,0,0,0,0,0,0,2,192,QQ Music,tencent music
+193,0,0,0,0,0,0,0,0,0,2,193,Qishui Music,bytedance
+194,0,0,0,0,0,1,0,1,0,0,194,QQ Music,tencent music
+195,0,0,0,0,0,0,0,0,0,2,195,QQ Music,tencent music
+196,0,0,0,0,0,1,0,0,0,0,196,QQ Music,tencent music
+197,0,0,0,0,0,0,0,0,0,2,197,QQ Music,tencent music
+198,0,0,0,0,0,1,0,1,1,0,198,QQ Music,tencent music
+199,0,0,0,0,0,0,0,0,0,1,199,Qishui Music,bytedance
+200,0,1,0,0,0,1,0,0,0,1,200,QQ Music,tencent music
+201,0,1,0,0,0,0,0,0,0,2,201,QQ Music,tencent music
+202,0,0,0,0,0,0,0,0,0,1,202,QQ Music,tencent music
+203,0,0,0,0,0,1,0,1,1,0,203,Kuwo Music,tencent music
+204,0,0,0,0,0,1,0,0,0,0,204,NetEase Cloud Music,netease
+205,0,0,0,0,0,0,0,1,0,0,205,NetEase Cloud Music,netease
+206,0,0,0,0,0,1,0,0,1,0,206,Kugou Music,tencent music
+207,0,0,0,0,0,0,0,1,0,2,207,Qishui Music,bytedance
+208,0,0,0,0,0,0,0,1,0,0,208,QQ Music,tencent music
+209,0,0,0,0,0,1,0,0,1,2,209,NetEase Cloud Music,netease
+210,0,0,0,0,0,1,0,1,0,0,210,Kugou Music,tencent music
+211,0,0,0,0,0,1,0,0,0,0,211,QQ Music,tencent music
+212,0,0,0,0,0,1,0,1,0,0,212,QQ Music,tencent music
+213,0,0,0,0,0,0,1,1,0,2,213,QQ Music,tencent music
+214,0,0,0,0,0,0,0,0,0,0,214,QQ Music,tencent music
+215,0,0,0,0,0,0,0,0,0,2,215,QQ Music,tencent music
+216,0,0,0,0,0,0,0,0,0,2,216,QQ Music,tencent music
+217,0,0,0,0,0,1,0,1,0,0,217,QQ Music,tencent music
+218,0,0,0,0,0,0,0,0,1,0,218,QQ Music,tencent music
+219,0,0,0,0,0,0,0,1,0,0,219,QQ Music,tencent music
+220,0,0,0,0,0,0,0,1,0,0,220,QQ Music,tencent music
+221,0,1,0,0,0,1,0,1,0,2,221,QQ Music,tencent music
+222,0,1,0,0,0,0,0,0,0,2,222,QQ Music,tencent music
+223,0,0,0,0,0,1,0,0,0,0,223,Kugou Music,tencent music
+224,0,0,0,0,0,0,0,0,0,2,224,NetEase Cloud Music,netease
+225,0,0,0,0,0,0,0,1,0,0,225,QQ Music,tencent music
+226,0,0,0,0,0,1,0,0,1,0,226,Kuwo Music,tencent music
+227,0,0,0,0,0,0,0,0,0,2,227,QQ Music,tencent music
+228,0,0,0,0,0,1,0,1,1,0,228,Qishui Music,bytedance
+229,0,0,0,0,0,0,0,1,0,0,229,Qishui Music,bytedance
+230,0,0,0,0,0,0,0,0,0,2,230,QQ Music,tencent music
+231,0,0,0,0,0,1,0,0,0,0,231,QQ Music,tencent music
+232,0,0,0,0,0,0,0,1,0,1,232,NetEase Cloud Music,netease
+233,0,0,0,0,0,1,0,0,0,0,233,Qishui Music,bytedance
+234,0,0,0,0,0,0,0,1,0,0,234,Qishui Music,bytedance
+235,0,0,0,0,0,0,0,0,0,2,235,QQ Music,tencent music
+236,1,0,0,0,0,0,0,1,0,1,236,Qishui Music,bytedance
+237,0,1,0,0,0,0,0,0,0,2,237,QQ Music,tencent music
+238,0,0,0,0,0,1,0,1,0,0,238,QQ Music,tencent music
+239,0,0,0,0,0,1,0,0,0,0,239,NetEase Cloud Music,netease
+240,0,0,0,0,0,1,0,0,0,0,240,QQ Music,tencent music
+241,0,0,0,0,0,0,0,1,0,2,241,QQ Music,tencent music
+242,0,0,0,0,0,0,0,0,0,2,242,QQ Music,tencent music
+243,0,0,0,0,0,1,1,0,0,2,243,QQ Music,tencent music
+244,0,0,0,0,0,0,0,0,0,2,244,QQ Music,tencent music
+245,0,0,0,1,0,0,0,0,0,2,245,QQ Music,tencent music
+246,0,0,0,0,0,0,0,1,0,0,246,NetEase Cloud Music,netease
+247,0,0,0,1,0,0,0,0,0,2,247,QQ Music,tencent music
+248,0,1,0,1,0,0,0,0,0,2,248,QQ Music,tencent music
+249,0,0,0,0,0,0,0,0,0,1,249,QQ Music,tencent music
+250,0,0,0,0,0,0,0,1,0,0,250,QQ Music,tencent music
+251,0,0,0,0,0,0,0,0,0,2,251,QQ Music,tencent music
+252,0,0,0,0,0,0,0,0,1,0,252,QQ Music,tencent music
+253,0,1,0,0,0,0,0,0,0,2,253,QQ Music,tencent music
+254,0,0,0,0,0,0,0,0,0,2,254,QQ Music,tencent music
+255,0,1,0,0,0,0,0,0,0,2,255,Kugou Music,tencent music
+256,0,0,0,0,0,0,0,1,0,2,256,QQ Music,tencent music
+257,0,0,0,0,0,0,1,0,0,2,257,QQ Music,tencent music
+258,0,0,0,0,0,0,1,0,0,2,258,QQ Music,tencent music
+259,0,0,0,0,0,0,0,0,0,1,259,Qishui Music,bytedance
+260,0,0,0,0,0,0,0,0,0,0,260,Qishui Music,bytedance
+261,0,1,0,0,0,0,0,0,0,2,261,QQ Music,tencent music
+262,1,0,0,0,0,0,0,0,0,2,262,QQ Music,tencent music
+263,0,0,0,0,0,0,0,0,0,0,263,QQ Music,tencent music
+264,0,0,0,0,0,0,0,0,0,2,264,QQ Music,tencent music
+265,0,0,0,0,0,0,0,0,0,2,265,QQ Music,tencent music
+266,0,0,0,0,0,0,0,0,0,2,266,QQ Music,tencent music
+267,0,0,0,0,0,0,0,0,0,0,267,Kugou Music,tencent music
+268,0,1,0,0,0,0,0,0,0,2,268,QQ Music,tencent music
+269,1,0,0,0,0,0,0,0,0,2,269,QQ Music,tencent music
+270,0,1,1,0,0,1,0,0,0,2,270,QQ Music,tencent music
+271,0,0,0,0,0,0,0,0,0,2,271,QQ Music,tencent music
+272,0,1,0,0,0,0,0,1,0,2,272,QQ Music,tencent music
+273,0,0,0,0,0,0,0,0,1,0,273,Qishui Music,bytedance
+274,0,0,0,0,0,0,0,1,0,2,274,QQ Music,tencent music
+275,0,0,0,0,0,0,0,1,0,0,275,QQ Music,tencent music
+276,0,0,0,0,0,0,0,1,0,0,276,Kugou Music,tencent music
+277,0,0,0,0,0,0,0,0,0,2,277,QQ Music,tencent music
+278,0,0,0,0,0,0,0,0,0,0,278,Kugou Music,tencent music
+279,0,0,0,0,0,0,0,0,0,2,279,QQ Music,tencent music
+280,0,0,0,0,0,0,0,0,0,2,280,QQ Music,tencent music
+281,0,0,0,1,0,0,0,0,0,2,281,QQ Music,tencent music
+282,0,0,0,0,0,0,0,0,0,1,282,QQ Music,tencent music
+283,0,0,0,0,0,0,0,0,0,1,283,QQ Music,tencent music
+284,0,0,0,0,0,1,1,0,0,0,284,QQ Music,tencent music
+285,0,0,0,1,0,0,0,0,0,2,285,QQ Music,tencent music
+286,0,0,0,0,0,0,0,0,0,2,286,QQ Music,tencent music
+287,0,0,0,0,0,0,0,0,0,2,287,QQ Music,tencent music
+288,0,0,0,0,0,0,1,1,0,2,288,QQ Music,tencent music
+289,0,0,0,0,0,1,0,0,1,0,289,QQ Music,tencent music
+290,0,0,0,0,0,0,0,1,0,2,290,QQ Music,tencent music
+291,0,0,0,0,0,1,0,0,1,0,291,QQ Music,tencent music
+292,0,0,0,0,0,1,0,1,0,0,292,QQ Music,tencent music
+293,0,0,0,0,0,0,0,0,0,2,293,QQ Music,tencent music
+294,0,0,0,0,0,0,0,1,0,2,294,QQ Music,tencent music
+295,0,0,0,0,0,0,0,0,0,2,295,QQ Music,tencent music
+296,0,0,0,0,0,1,0,0,0,1,296,QQ Music,tencent music
+297,0,0,0,0,0,0,0,1,0,0,297,QQ Music,tencent music
+298,0,0,0,0,0,1,0,0,0,0,298,QQ Music,tencent music
+299,0,0,0,0,0,0,0,0,0,1,299,QQ Music,tencent music
+300,0,0,0,0,0,0,0,1,0,2,300,QQ Music,tencent music
+301,0,0,0,0,0,0,0,0,0,1,301,QQ Music,tencent music
+302,0,0,0,0,0,0,0,0,0,2,302,QQ Music,tencent music
+303,0,0,0,0,0,0,0,0,0,1,303,QQ Music,tencent music
+304,0,0,0,0,0,0,0,0,0,2,304,QQ Music,tencent music
+305,0,0,0,0,0,0,0,1,0,1,305,Qishui Music,bytedance
+306,0,0,0,0,0,0,1,1,0,0,306,Qishui Music,bytedance
+307,0,0,0,0,0,0,0,0,0,2,307,QQ Music,tencent music
+308,0,0,0,0,0,0,0,0,0,2,308,QQ Music,tencent music
+309,0,0,0,0,0,1,1,0,1,0,309,Kuwo Music,tencent music
+310,0,0,0,0,0,0,0,0,0,2,310,QQ Music,tencent music
+311,0,0,0,0,0,0,0,0,0,2,311,QQ Music,tencent music
+312,0,0,0,0,0,0,0,0,0,2,312,QQ Music,tencent music
+313,0,0,0,0,0,0,0,0,0,2,313,Kugou Music,tencent music
+314,0,0,0,0,0,0,1,0,0,2,314,QQ Music,tencent music
+315,0,0,0,0,0,0,0,0,0,2,315,QQ Music,tencent music
+316,0,0,0,0,0,0,0,0,0,2,316,QQ Music,tencent music
+317,0,1,0,0,0,1,0,0,0,2,317,QQ Music,tencent music
+318,0,0,0,0,0,0,0,0,0,2,318,QQ Music,tencent music
+319,0,0,0,0,0,0,0,0,0,0,319,Kugou Music,tencent music
+320,0,0,0,0,0,1,0,1,0,0,320,QQ Music,tencent music
+321,0,0,0,0,0,0,0,0,0,2,321,QQ Music,tencent music
+322,0,0,0,0,0,0,0,1,0,0,322,QQ Music,tencent music
+323,0,0,0,0,0,1,0,0,0,1,323,QQ Music,tencent music
+324,1,1,0,0,0,0,0,1,0,2,324,QQ Music,tencent music
+325,0,0,0,0,0,0,0,1,0,0,325,NetEase Cloud Music,netease
+326,0,0,0,0,0,0,0,0,0,2,326,QQ Music,tencent music
+327,0,0,0,0,0,0,0,1,0,0,327,QQ Music,tencent music
+328,0,0,0,0,0,0,0,0,0,2,328,QQ Music,tencent music
+329,0,0,0,0,0,0,0,0,0,2,329,QQ Music,tencent music
+330,0,1,0,0,1,0,0,0,0,2,330,QQ Music,tencent music
+331,0,0,0,0,0,0,0,0,0,2,331,QQ Music,tencent music
+332,0,0,0,0,0,1,0,0,1,0,332,Kugou Music,tencent music
+333,0,0,0,0,0,0,0,0,0,2,333,QQ Music,tencent music
+334,0,0,0,0,0,0,0,1,0,2,334,QQ Music,tencent music
+335,0,0,0,0,0,0,0,0,0,2,335,QQ Music,tencent music
+336,0,0,0,0,0,0,0,0,0,2,336,QQ Music,tencent music
+337,0,0,0,0,0,0,0,0,0,1,337,NetEase Cloud Music,netease
+338,0,0,0,0,0,1,1,1,1,2,338,QQ Music,tencent music
+339,0,0,0,0,0,0,0,0,0,2,339,QQ Music,tencent music
+340,0,0,0,0,0,0,0,0,0,1,340,QQ Music,tencent music
+341,0,0,0,0,0,0,0,1,0,0,341,NetEase Cloud Music,netease
+342,0,0,0,0,0,0,0,0,0,2,342,QQ Music,tencent music
+343,0,0,0,0,0,0,0,1,0,0,343,NetEase Cloud Music,netease
+344,0,0,0,0,0,1,0,0,0,0,344,QQ Music,tencent music
+345,0,0,0,0,0,0,0,1,0,2,345,NetEase Cloud Music,netease
+346,0,0,0,0,0,0,0,1,0,0,346,NetEase Cloud Music,netease
+347,0,0,0,0,0,1,0,1,1,0,347,Qishui Music,bytedance
+348,0,0,0,0,0,1,0,0,0,0,348,Qishui Music,bytedance
+349,0,0,0,0,0,1,0,1,0,0,349,NetEase Cloud Music,netease
+350,0,0,0,0,0,1,0,1,0,0,350,Kugou Music,tencent music
+351,0,0,0,0,0,1,0,1,0,0,351,NetEase Cloud Music,netease
+352,0,0,0,0,0,1,0,1,0,0,352,Qishui Music,bytedance
+353,0,0,0,0,0,0,0,1,0,0,353,NetEase Cloud Music,netease
+354,0,0,0,0,0,1,0,1,0,0,354,NetEase Cloud Music,netease
+355,0,0,0,0,0,0,0,1,0,0,355,Kugou Music,tencent music
+356,0,0,0,0,0,1,0,1,1,0,356,Qishui Music,bytedance
+357,0,0,0,0,0,1,0,1,0,0,357,QQ Music,tencent music
+358,0,0,0,0,0,0,0,1,0,0,358,NetEase Cloud Music,netease
+359,0,0,0,0,0,0,0,1,0,0,359,NetEase Cloud Music,netease
+360,0,0,0,0,0,1,0,0,0,0,360,Kuwo Music,tencent music
+361,0,0,0,0,0,0,0,0,1,0,361,QQ Music,tencent music
+362,0,0,0,0,0,0,1,0,0,2,362,QQ Music,tencent music
+363,0,0,0,0,0,1,0,0,1,0,363,QQ Music,tencent music
+364,0,0,0,0,0,0,0,0,1,0,364,Qishui Music,bytedance
+365,0,0,0,0,0,1,0,0,1,0,365,Qishui Music,bytedance
+366,0,0,0,0,0,1,0,1,0,0,366,QQ Music,tencent music
+367,0,0,0,0,0,0,0,0,0,0,367,QQ Music,tencent music
+368,0,0,0,0,0,0,0,0,0,0,368,NetEase Cloud Music,netease
+369,0,0,0,0,0,1,0,1,1,0,369,Qishui Music,bytedance
+370,0,0,0,0,0,0,1,1,1,0,370,Qishui Music,bytedance
+371,0,0,0,0,0,0,0,0,0,0,371,NetEase Cloud Music,netease
+372,0,0,0,0,0,0,0,1,0,2,372,Qishui Music,bytedance
+373,0,0,0,0,0,0,0,1,0,0,373,QQ Music,tencent music
+374,0,0,0,0,0,0,0,1,0,0,374,QQ Music,tencent music
+375,0,0,0,0,0,0,0,1,0,0,375,Qishui Music,bytedance
+376,0,0,0,0,0,0,0,1,0,0,376,NetEase Cloud Music,netease
+377,0,0,0,0,0,0,0,1,0,1,377,Qishui Music,bytedance
+378,0,0,0,0,0,1,0,0,0,2,378,Qishui Music,bytedance
+379,0,0,0,0,0,0,0,1,1,0,379,QQ Music,tencent music
+380,0,0,0,0,0,1,0,0,1,0,380,Kugou Music,tencent music
+381,0,0,0,0,0,1,1,1,1,0,381,Kugou Music,tencent music
+382,0,0,0,0,0,0,1,1,0,0,382,Kugou Music,tencent music
+383,0,0,0,0,0,0,0,1,0,0,383,Kugou Music,tencent music
+384,0,0,0,0,0,1,0,1,0,0,384,QQ Music,tencent music
+385,0,0,0,0,0,0,0,0,0,0,385,Qishui Music,bytedance
+386,0,0,0,0,0,1,0,1,1,0,386,Qishui Music,bytedance
+387,0,0,0,0,0,0,0,1,1,0,387,NetEase Cloud Music,netease
+388,0,0,0,0,0,0,0,0,1,0,388,NetEase Cloud Music,netease
+389,0,0,0,0,0,0,0,1,0,0,389,Kugou Music,tencent music
+390,0,0,0,0,0,1,0,1,0,0,390,QQ Music,tencent music
+391,0,0,0,0,0,0,0,1,0,0,391,QQ Music,tencent music
+392,0,0,0,0,0,0,0,1,0,0,392,Qishui Music,bytedance
+393,0,0,0,0,0,0,0,1,0,0,393,QQ Music,tencent music
+394,0,0,0,0,0,1,0,1,0,0,394,Qishui Music,bytedance
+395,0,1,0,0,0,1,0,0,0,2,395,Qishui Music,bytedance
+396,0,0,0,0,0,1,0,0,1,1,396,QQ Music,tencent music
+397,0,0,0,0,0,1,0,0,1,0,397,QQ Music,tencent music
+398,0,0,0,0,0,0,0,1,0,1,398,NetEase Cloud Music,netease
+399,0,0,0,0,0,0,0,1,0,0,399,QQ Music,tencent music
+400,0,0,0,0,0,0,0,0,1,0,400,QQ Music,tencent music
+401,0,0,0,0,0,0,0,0,1,0,401,Kugou Music,tencent music
+402,0,0,0,0,0,0,0,1,0,0,402,Qishui Music,bytedance
+403,0,0,0,0,0,1,0,0,0,0,403,QQ Music,tencent music
+404,0,0,0,0,0,0,0,0,0,0,404,Kugou Music,tencent music
+405,0,0,0,0,0,0,0,1,0,2,405,Qishui Music,bytedance
+406,0,0,0,0,0,0,0,0,0,0,406,Kugou Music,tencent music
+407,0,0,0,0,0,1,0,1,0,0,407,NetEase Cloud Music,netease
+408,0,0,0,0,0,0,0,0,1,0,408,QQ Music,tencent music
+409,1,0,1,0,0,1,0,0,0,2,409,QQ Music,tencent music
+410,0,0,0,0,0,1,0,0,1,0,410,Qishui Music,bytedance
+411,0,0,0,0,0,0,0,0,0,0,411,Qishui Music,bytedance
+412,0,0,0,0,0,1,0,1,1,0,412,QQ Music,tencent music
+413,0,0,0,0,0,1,0,1,0,0,413,QQ Music,tencent music
+414,0,0,0,0,0,1,0,0,1,0,414,Kuwo Music,tencent music
+415,0,0,0,0,0,0,1,1,0,0,415,Qishui Music,bytedance
+416,0,0,0,0,0,1,0,1,1,0,416,Kugou Music,tencent music
+417,0,0,0,0,0,0,0,0,1,0,417,QQ Music,tencent music
+418,0,0,0,0,0,1,0,0,1,0,418,QQ Music,tencent music
+419,0,0,0,0,0,1,0,0,0,0,419,Qishui Music,bytedance
+420,0,0,0,0,0,1,0,0,0,0,420,QQ Music,tencent music
+421,0,0,0,0,0,0,0,1,0,2,421,Qishui Music,bytedance
+422,0,0,0,0,0,1,0,0,0,0,422,NetEase Cloud Music,netease
+423,0,0,0,0,0,1,0,1,0,0,423,Kugou Music,tencent music
+424,0,0,0,0,0,0,0,0,0,1,424,NetEase Cloud Music,netease
+425,0,0,0,0,0,0,0,1,0,0,425,NetEase Cloud Music,netease
+426,0,0,0,0,0,0,0,0,0,0,426,QQ Music,tencent music
+427,0,0,0,0,1,0,0,0,0,2,427,Qishui Music,bytedance
+428,0,0,0,0,0,0,0,1,0,0,428,QQ Music,tencent music
+429,0,0,0,0,0,1,0,0,1,0,429,QQ Music,tencent music
+430,0,0,0,1,0,0,0,1,0,2,430,NetEase Cloud Music,netease
+431,0,0,0,0,0,0,0,0,1,0,431,NetEase Cloud Music,netease
+432,0,0,0,0,0,1,0,0,1,0,432,Qishui Music,bytedance
+433,0,0,0,0,0,0,0,1,0,0,433,NetEase Cloud Music,netease
+434,0,0,0,0,0,1,0,0,0,0,434,NetEase Cloud Music,netease
+435,0,0,0,0,0,0,0,0,0,0,435,NetEase Cloud Music,netease
+436,1,0,1,0,0,0,0,1,0,2,436,Kugou Music,tencent music
+437,0,0,0,0,0,0,0,0,0,0,437,NetEase Cloud Music,netease
+438,0,0,0,0,0,0,0,1,0,1,438,Qishui Music,bytedance
+439,0,0,0,0,0,0,0,0,1,0,439,Qishui Music,bytedance
+440,0,0,0,0,0,0,0,1,0,0,440,Qishui Music,bytedance
+441,0,0,0,0,0,0,0,0,1,0,441,NetEase Cloud Music,netease
+442,0,0,0,0,0,0,0,1,0,0,442,Qishui Music,bytedance
+443,0,0,0,0,0,0,0,1,0,0,443,Qishui Music,bytedance
+444,0,0,0,0,0,0,0,1,0,0,444,QQ Music,tencent music
+445,0,0,0,0,0,0,0,1,1,0,445,QQ Music,tencent music
+446,0,0,0,0,0,1,0,0,0,0,446,Kugou Music,tencent music
+447,0,0,0,0,0,0,0,1,0,0,447,Kugou Music,tencent music
+448,0,0,0,0,0,0,0,0,0,1,448,Qishui Music,bytedance
+449,0,0,1,0,0,1,0,1,0,2,449,QQ Music,tencent music
+450,0,0,0,0,0,0,0,0,0,0,450,QQ Music,tencent music
+451,0,0,0,0,0,1,0,1,0,0,451,QQ Music,tencent music
+452,0,0,0,0,0,0,0,0,0,2,452,QQ Music,tencent music
+453,0,0,0,0,0,0,0,1,0,0,453,NetEase Cloud Music,netease
+454,0,0,0,0,0,1,0,0,1,0,454,QQ Music,tencent music
+455,0,0,0,0,1,1,1,0,1,2,455,Qishui Music,bytedance
+456,0,0,0,0,0,0,0,1,0,0,456,QQ Music,tencent music
+457,0,0,0,0,0,0,0,0,1,0,457,NetEase Cloud Music,netease
+458,0,0,0,0,0,1,0,1,0,0,458,QQ Music,tencent music
+459,0,0,0,0,0,0,0,1,0,0,459,Qishui Music,bytedance
+460,0,0,0,0,0,1,0,0,1,0,460,Kuwo Music,tencent music
+461,0,0,0,0,0,1,0,1,1,0,461,Qishui Music,bytedance
+462,0,1,0,0,0,0,0,0,1,2,462,Qishui Music,bytedance
+463,0,0,0,0,0,1,0,1,0,0,463,QQ Music,tencent music
+464,0,0,0,0,0,0,0,0,1,0,464,NetEase Cloud Music,netease
+465,0,1,0,0,0,1,0,0,0,2,465,Qishui Music,bytedance
+466,0,0,0,0,0,0,0,1,0,0,466,NetEase Cloud Music,netease
+467,0,0,0,0,0,0,0,0,0,1,467,Qishui Music,bytedance
+468,0,0,0,0,0,0,0,1,1,0,468,Kugou Music,tencent music
+469,0,0,0,0,0,1,0,1,0,0,469,Qishui Music,bytedance
+470,0,0,0,0,0,0,0,0,1,0,470,Kuwo Music,tencent music
+471,0,0,0,0,0,0,0,1,0,2,471,Qishui Music,bytedance
+472,0,0,0,0,0,0,0,0,1,0,472,Qishui Music,bytedance
+473,0,0,0,0,0,0,0,1,0,1,473,NetEase Cloud Music,netease
+474,0,0,0,0,0,0,0,1,1,0,474,QQ Music,tencent music
+475,0,0,0,0,0,1,0,1,0,0,475,Kugou Music,tencent music
+476,0,0,0,0,0,0,0,1,0,2,476,Qishui Music,bytedance
+477,0,0,0,0,0,0,0,1,0,0,477,Qishui Music,bytedance
+478,0,0,0,0,0,0,0,0,0,0,478,NetEase Cloud Music,netease
+479,0,0,0,0,0,0,0,1,0,0,479,NetEase Cloud Music,netease
+480,0,0,0,0,0,0,0,0,0,1,480,QQ Music,tencent music
+481,0,0,0,0,0,0,0,0,1,0,481,QQ Music,tencent music
+482,0,0,0,0,0,0,0,0,0,0,482,QQ Music,tencent music
+483,0,0,0,0,0,0,0,0,1,0,483,Qishui Music,bytedance
+484,0,0,0,0,0,0,0,1,0,0,484,NetEase Cloud Music,netease
+485,0,0,0,1,0,0,0,0,0,2,485,NetEase Cloud Music,netease
+486,0,0,0,0,0,1,0,1,0,0,486,NetEase Cloud Music,netease
+487,0,0,0,0,0,0,0,0,0,0,487,QQ Music,tencent music
+488,0,0,0,0,0,0,0,0,1,0,488,QQ Music,tencent music
+489,0,0,0,0,0,0,0,1,0,0,489,Kugou Music,tencent music
+490,0,0,0,0,0,0,0,1,0,0,490,QQ Music,tencent music
+491,0,0,0,0,0,0,0,1,0,0,491,Kugou Music,tencent music
+492,0,0,0,0,0,0,1,0,0,0,492,Kugou Music,tencent music
+493,0,1,0,0,0,0,0,0,0,2,493,NetEase Cloud Music,netease
+494,0,0,0,0,0,1,0,0,0,0,494,NetEase Cloud Music,netease
+495,0,0,0,0,0,1,0,1,0,0,495,QQ Music,tencent music
+496,0,0,0,0,0,0,0,1,1,0,496,QQ Music,tencent music
+497,0,0,0,0,0,0,0,1,0,0,497,QQ Music,tencent music
+498,0,0,0,0,0,0,0,1,1,0,498,QQ Music,tencent music
+499,0,0,0,0,0,0,1,1,1,0,499,Qishui Music,bytedance

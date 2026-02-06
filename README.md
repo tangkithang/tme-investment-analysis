@@ -70,14 +70,14 @@ Out of **4,991 user reviews** analyzed:
 ## � Key Visualizations
 
 ### Competitive Moat Comparison
-<img src="moat_comparison_20260130_024836.png" alt="Competitive Moat Comparison" width="800">
+<img src="images/chart_moat_comparison.png" alt="Competitive Moat Comparison" width="800">
 
 *TME dominates in fan interaction, content depth, and ecosystem lock-in*
 
 
 
 ### Fan Economy → Higher Monetization Potential
-<img src="monetisation_funnel_20260205_042016.png" alt="Monetization Funnel" width="800">
+<img src="images/chart_monetisation_funnel.png" alt="Monetization Funnel" width="800">
 
 *TME's fan interaction features create superior monetization opportunities*
 
@@ -221,10 +221,10 @@ Here are actual reviews from our dataset that showcase different competitive moa
 - **Matplotlib** for visualizations
 
 ### Key Files
-- `Reviews and Gemini.ipynb` - Main analysis notebook
-- `fetch_reviews.js` - App Store scraper
+- `notebooks/main_analysis.ipynb` - Main analysis notebook
+- `scraper/fetch_reviews.js` - App Store scraper
 - `weibo-search/` - Weibo scraper for sentiment analysis
-- `china_music_app_reviews_20260129.csv` - Raw review data
+- `data/raw_reviews_20260129.csv` - Raw review data
 
 ### Setup & Running
 
@@ -233,8 +233,10 @@ Here are actual reviews from our dataset that showcase different competitive moa
 # Python packages
 pip install pandas google-generativeai matplotlib jupyter
 
-# Node.js packages
+# Node.js packages (for scraper)
+cd scraper
 npm install
+cd ..
 ```
 
 2. **Set API key:**
@@ -244,7 +246,7 @@ export GOOGLE_API_KEY="your-gemini-api-key"
 
 3. **Run the analysis:**
 ```bash
-jupyter notebook "Reviews and Gemini.ipynb"
+jupyter notebook "notebooks/main_analysis.ipynb"
 ```
 
 4. **Execute cells in order** to reproduce the full analysis
